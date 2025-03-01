@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo
+  repo: MechTechnic/decap-cms-cloudflare-pages
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://decap-cms-cloudflare-pages.pages.dev
   auth_endpoint: /api/auth
